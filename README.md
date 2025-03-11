@@ -63,3 +63,5 @@ A console application connected to a relational database. Apply advanced Java an
 ![screenshot](https://github.com/marcotrejolemus/libreriasgandhi/blob/main/assets/Screenshot_13.jpg)
 ![screenshot](https://github.com/marcotrejolemus/libreriasgandhi/blob/main/assets/Screenshot_14.jpg)
 ![screenshot](https://github.com/marcotrejolemus/libreriasgandhi/blob/main/assets/Screenshot_15.jpg)
+![screenshot](https://github.com/marcotrejolemus/libreriasgandhi/blob/main/assets/Screenshot_16-PostGreSQLDB.png)
+![screenshot](https://github.com/marcotrejolemus/libreriasgandhi/blob/main/assets/Screenshot_17-RestAPIGutendex.png)
