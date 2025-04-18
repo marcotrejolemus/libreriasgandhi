@@ -1,5 +1,5 @@
 # librerias gandhi
-A console application connected to a relational database. Apply advanced Java and Spring concepts, such as consuming external RES APIs, data persistence with PostgreSQL
+A console application connected to a relational database. Apply advanced Java and Spring concepts, such as consuming external REST APIs, data persistence with PostgreSQL
 # librerias gandhi
 
 **librerias gandhi** is a Spring Framework application designed to connect to a relational database, consume external APIs, and apply advanced Java and Spring concepts. The console application uses PostgreSQL for data persistence with Hibernate and focuses on managing and querying information about books and authors.
